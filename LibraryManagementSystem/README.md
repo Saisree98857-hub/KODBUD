@@ -177,19 +177,7 @@ Through this project, I learned:
 
 ---
 
-# 🔮 Future Improvements
 
-This project can be enhanced with:
-
-- File Handling
-- Database Connectivity
-- GUI Interface using Java Swing
-- Login System
-- Book Issue/Return Feature
-- Due Date Tracking
-- Admin Dashboard
-
----
 
 # 📸 Sample Output
 
@@ -214,12 +202,9 @@ Book Added Successfully!
 
 # 🧑‍💻 Author
 
-**Doraemon**
+**Saisree**
 
 Java Developer Beginner Project 🚀
 
 ---
 
-# ⭐ GitHub
-
-If you like this project, give it a ⭐ on GitHub!
